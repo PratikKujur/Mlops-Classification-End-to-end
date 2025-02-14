@@ -1,0 +1,19 @@
+preprocess:
+  input: data/data.csv
+  output: data/data_preprocessed.csv
+  X_sm: data/processed/X_sm.csv
+  y_sm: data/processed/y_sm.csv
+   
+train:
+  y_train: data/processed/y_train.csv
+  X_train: data/processed/X_train.csv
+
+model: models/model.pkl
+
+
+evalution:
+  y_test: data/processed/y_test.csv
+  X_test: data/processed/X_test.csv
+
+mlflow:
+  uri: "http://127.0.0.1:5000"

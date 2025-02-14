@@ -3,3 +3,4 @@ ipykernel
 pandas
 matplotlib
 imbalanced-learn
+pyaml
