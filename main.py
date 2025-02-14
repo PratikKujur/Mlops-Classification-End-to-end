@@ -1,6 +1,7 @@
 import yaml
 from src.DataPreprocessing import DataPreprocessing
 from src.ModelTrainer import ModelTrainer
+from src.ModelPredictor import ModelPrediction
 
 
 params_preprocess=yaml.safe_load(open("/Users/pratik.kujur/Desktop/Projects/Mlops-Classification-End-to-end/params.yaml"))['preprocess']
@@ -22,5 +23,7 @@ ModelTraining=ModelTrainer(params_preprocess['X_sm'],params_preprocess['y_sm'],
 ModelTraining.StartTraining()
 
 #Step-3
-
+model_predictor=ModelPrediction(params_eval['X_test'],params_model['model'])
+y_pred=model_predictor.ModelPredict()
+print(y_pred)
 #Step-4

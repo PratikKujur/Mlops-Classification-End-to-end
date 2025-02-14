@@ -44,9 +44,9 @@ class ModelTrainer:
 
             saving_files=[
                            (X_train,self.X_train_path),
-                           (X_test,self.y_train_path), 
-                           (y_train,self.y_test_path), 
-                           (y_test,self.X_test_path)
+                           (X_test,self.X_test_path), 
+                           (y_train,self.y_train_path), 
+                           (y_test,self.y_test_path)
                         ]
             for file,path in (saving_files):
                 self.savefiles(file,path)
