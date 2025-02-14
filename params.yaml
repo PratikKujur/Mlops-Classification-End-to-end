@@ -5,15 +5,15 @@ preprocess:
   y_sm: data/processed/y_sm.csv
    
 train:
-  y_train: data/processed/y_train.csv
-  X_train: data/processed/X_train.csv
+  y_train: data/for_training/y_train.csv
+  X_train: data/for_training/X_train.csv
 
 model: models/model.pkl
 
 
-evalution:
-  y_test: data/processed/y_test.csv
-  X_test: data/processed/X_test.csv
+evaluation:
+  y_test: data/test_eval/y_test.csv
+  X_test: data/test_eval/X_test.csv
 
 mlflow:
   uri: "http://127.0.0.1:5000"
