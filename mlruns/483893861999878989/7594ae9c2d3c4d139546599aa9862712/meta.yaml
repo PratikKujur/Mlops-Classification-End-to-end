@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/7594ae9c2d3c4d139546599aa9862712/artifacts
+end_time: 1739645154673
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: active
+run_id: 7594ae9c2d3c4d139546599aa9862712
+run_name: traveling-colt-59
+run_uuid: 7594ae9c2d3c4d139546599aa9862712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739645150570
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/5f61008b26d54c1192f893bfb5d0be57/artifacts
+deleted_time: 1739643185412
+end_time: 1739566856847
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: 5f61008b26d54c1192f893bfb5d0be57
+run_name: rebellious-slug-334
+run_uuid: 5f61008b26d54c1192f893bfb5d0be57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739566854541
+status: 3
+tags: []
+user_id: pratik.kujur

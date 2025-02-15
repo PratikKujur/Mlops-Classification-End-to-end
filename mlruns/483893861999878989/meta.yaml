@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/483893861999878989
+creation_time: 1739566219957
+experiment_id: '483893861999878989'
+last_update_time: 1739566219957
+lifecycle_stage: active
+name: Breast_cancer_metrics

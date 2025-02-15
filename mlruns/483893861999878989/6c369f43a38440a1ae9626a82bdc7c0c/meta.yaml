@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/6c369f43a38440a1ae9626a82bdc7c0c/artifacts
+deleted_time: 1739643185407
+end_time: 1739566324593
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: 6c369f43a38440a1ae9626a82bdc7c0c
+run_name: sedate-ray-498
+run_uuid: 6c369f43a38440a1ae9626a82bdc7c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739566321041
+status: 3
+tags: []
+user_id: pratik.kujur

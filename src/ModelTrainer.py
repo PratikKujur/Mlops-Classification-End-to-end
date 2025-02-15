@@ -8,10 +8,6 @@ from sklearn.model_selection import train_test_split
 import pickle
 
 
-params_trainer=yaml.safe_load(open("/Users/pratik.kujur/Desktop/Projects/Mlops-Classification-End-to-end/params.yaml"))['train']
-params_eval=yaml.safe_load(open("/Users/pratik.kujur/Desktop/Projects/Mlops-Classification-End-to-end/params.yaml"))['evaluation']
-params_model=yaml.safe_load(open("/Users/pratik.kujur/Desktop/Projects/Mlops-Classification-End-to-end/params.yaml"))
-
 
 class ModelTrainer:
     def __init__ (self,X,Y,X_train,y_train,X_test,y_test,model_path):

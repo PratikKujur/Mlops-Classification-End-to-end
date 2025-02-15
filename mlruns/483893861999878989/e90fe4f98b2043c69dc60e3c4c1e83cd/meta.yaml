@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/e90fe4f98b2043c69dc60e3c4c1e83cd/artifacts
+deleted_time: 1739643185421
+end_time: 1739641440308
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: e90fe4f98b2043c69dc60e3c4c1e83cd
+run_name: handsome-moose-3
+run_uuid: e90fe4f98b2043c69dc60e3c4c1e83cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739641437712
+status: 3
+tags: []
+user_id: pratik.kujur

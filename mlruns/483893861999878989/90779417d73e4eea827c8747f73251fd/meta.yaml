@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/90779417d73e4eea827c8747f73251fd/artifacts
+deleted_time: 1739643185421
+end_time: 1739642076262
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: 90779417d73e4eea827c8747f73251fd
+run_name: hilarious-bee-382
+run_uuid: 90779417d73e4eea827c8747f73251fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739642073937
+status: 3
+tags: []
+user_id: pratik.kujur

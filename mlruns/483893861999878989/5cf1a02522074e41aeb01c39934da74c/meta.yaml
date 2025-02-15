@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/5cf1a02522074e41aeb01c39934da74c/artifacts
+deleted_time: 1739566351907
+end_time: 1739566288827
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: 5cf1a02522074e41aeb01c39934da74c
+run_name: amusing-newt-481
+run_uuid: 5cf1a02522074e41aeb01c39934da74c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739566288688
+status: 4
+tags: []
+user_id: pratik.kujur

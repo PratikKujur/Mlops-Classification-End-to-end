@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/4326df89c301430ab774886c724e137c/artifacts
+end_time: 1739642927914
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: active
+run_id: 4326df89c301430ab774886c724e137c
+run_name: placid-wasp-634
+run_uuid: 4326df89c301430ab774886c724e137c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739642925628
+status: 3
+tags: []
+user_id: pratik.kujur

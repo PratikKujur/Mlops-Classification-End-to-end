@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/7a526345fdb84347ba0039544fe73f05/artifacts
+deleted_time: 1739566351907
+end_time: 1739566219995
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: 7a526345fdb84347ba0039544fe73f05
+run_name: receptive-ray-175
+run_uuid: 7a526345fdb84347ba0039544fe73f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739566219974
+status: 4
+tags: []
+user_id: pratik.kujur

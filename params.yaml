@@ -16,4 +16,8 @@ evaluation:
   X_test: data/test_eval/X_test.csv
 
 mlflow:
-  uri: "http://127.0.0.1:5000"
+  uri: "http://host.docker.internal:5000"
+
+
+#/Applications/Docker.app/Contents/Resources/bin/docker run -p 80:80 classification-app
+#/Applications/Docker.app/Contents/Resources/bin/docker build -t classification-app .

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/bcf57e54617e4f3c8b464d4afe65f42d/artifacts
+deleted_time: 1739643185410
+end_time: 1739566634393
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: bcf57e54617e4f3c8b464d4afe65f42d
+run_name: tasteful-bear-12
+run_uuid: bcf57e54617e4f3c8b464d4afe65f42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739566631606
+status: 3
+tags: []
+user_id: pratik.kujur

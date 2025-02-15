@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/3e52f87e094e4a068665e58c6685e9d4/artifacts
+deleted_time: 1739643185408
+end_time: 1739570590923
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: 3e52f87e094e4a068665e58c6685e9d4
+run_name: able-shark-12
+run_uuid: 3e52f87e094e4a068665e58c6685e9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739570588434
+status: 3
+tags: []
+user_id: pratik.kujur

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/a13aee689c604db59a241df6aa52e853/artifacts
+deleted_time: 1739643185421
+end_time: 1739642910367
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: a13aee689c604db59a241df6aa52e853
+run_name: bold-cub-466
+run_uuid: a13aee689c604db59a241df6aa52e853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739642907943
+status: 3
+tags: []
+user_id: pratik.kujur

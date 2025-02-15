@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/483893861999878989/d01adc4ac67b41d6930038af5e1fa6bd/artifacts
+deleted_time: 1739566351907
+end_time: 1739566250447
+entry_point_name: ''
+experiment_id: '483893861999878989'
+lifecycle_stage: deleted
+run_id: d01adc4ac67b41d6930038af5e1fa6bd
+run_name: debonair-mare-772
+run_uuid: d01adc4ac67b41d6930038af5e1fa6bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739566250427
+status: 4
+tags: []
+user_id: pratik.kujur
